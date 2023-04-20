@@ -7,7 +7,7 @@
 - [Acknowledgments](#Acknowledgments)
 
 ## Introduction
-
+<img src="visulization.gif" width="400" height="460">
 
 ## Install
 
