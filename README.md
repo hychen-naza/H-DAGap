@@ -12,7 +12,6 @@
 ## Install
 
 ```
-
 pip install future
 pip install keras
 pip install matplotlib
@@ -23,8 +22,9 @@ pip install cvxopt
 ## Usage
 
 ```
-python train.py --display {none, turtle} --explore {none, psn, rnd} --no-qp --no-ssa-buffer
+python Navigation.py --display {none, turtle}
 ```
+If you want to change the number of obstacles in the environment, you can change the obs_num variable in Navigation.py line 36.
 
 
 ## Acknowledgments
