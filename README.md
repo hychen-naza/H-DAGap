@@ -9,6 +9,19 @@
 ## Introduction
 <img src="visulization.gif" width="400" height="460">
 
+Please cite our paper as:
+
+```
+@inproceedings{chen2022safe,
+  title={Safe Hierarchical Navigation in Crowded Dynamic Uncertain Environments},
+  author={Chen, Hongyi and Feng, Shiyu and Zhao, Ye and Liu, Changliu and Vela, Patricio A},
+  booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)},
+  pages={1174--1181},
+  year={2022},
+  organization={IEEE}
+}
+```
+
 ## Install
 
 ```
